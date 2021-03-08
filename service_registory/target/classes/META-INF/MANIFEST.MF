@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Implementation-Title: service_registory
+Implementation-Version: service_registory
+Build-Jdk-Spec: 1.8
+Created-By: Maven Integration for Eclipse
+
